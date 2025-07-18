@@ -1,0 +1,4 @@
+aiogram==3.3.0
+aiohttp
+yookassa==3.0.1
+python-dotenv
